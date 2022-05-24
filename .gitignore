@@ -1,3 +1,6 @@
+# Data we don't have a license to redistribute
+English_Word_Prevalences.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
