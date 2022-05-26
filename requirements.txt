@@ -1,2 +1,4 @@
-openpyxl
+openpyxl  # Pandas requires but doesn't declare
 pandas
+requests
+xlrd  # Pandas requires but doesn't declare
