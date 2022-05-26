@@ -61,4 +61,4 @@ if __name__ == '__main__':
     try:
         BrysbaertPrevalence.download_data_file()
     except Exception as e:
-        logger.warning(f"Download failed: {e}")
+        _logger.warning(f"Download failed: {e}")
